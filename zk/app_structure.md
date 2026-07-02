@@ -79,3 +79,49 @@
 - Settings
 - Subscription
 - Admin Dashboard
+---
+
+# Navigation Flow
+
+## Authentication
+Splash Screen
+    ↓
+Welcome
+    ↓
+Login / Register
+    ↓
+Home
+
+---
+
+## Main Navigation
+
+Home
+├── Services
+│   ├── Sports
+│   ├── Health
+│   ├── Jobs
+│   ├── Scholarships
+│   ├── Volunteering
+│   ├── Travel
+│   ├── Education
+│   └── Business
+│
+├── Community
+│
+├── Messages
+│
+├── Notifications
+│
+├── Favorites
+│
+├── Search
+│
+├── Profile
+│   ├── Personal Information
+│   ├── Activity
+│   ├── Achievements
+│   ├── Settings
+│   └── Subscription
+│
+└── Admin Dashboard
