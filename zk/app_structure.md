@@ -125,3 +125,87 @@ Home
 │   └── Subscription
 │
 └── Admin Dashboard
+---
+
+# Database Structure
+
+## Users
+- user_id
+- full_name
+- email
+- password_hash
+- country
+- profile_photo
+- role
+- subscription_plan
+- created_at
+
+---
+
+## Services
+- service_id
+- title
+- description
+- category
+- provider_id
+- country
+- status
+- created_at
+
+---
+
+## Applications
+- application_id
+- user_id
+- service_id
+- status
+- created_at
+
+---
+
+## Messages
+- message_id
+- sender_id
+- receiver_id
+- content
+- created_at
+
+---
+
+## Notifications
+- notification_id
+- user_id
+- title
+- content
+- is_read
+- created_at
+
+---
+
+## Community Posts
+- post_id
+- author_id
+- content
+- media_url
+- likes_count
+- comments_count
+- created_at
+
+---
+
+## Premium Subscriptions
+- subscription_id
+- user_id
+- plan_name
+- start_date
+- end_date
+- status
+
+---
+
+## Rewards
+- reward_id
+- user_id
+- points
+- level
+- updated_at
