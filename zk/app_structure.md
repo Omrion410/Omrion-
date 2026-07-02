@@ -28,3 +28,54 @@
 - Settings
 - Wallet
 - Achievements
+---
+
+# User Roles
+
+## 1. Guest
+- Browse public services.
+- Search for opportunities.
+- View opportunity details.
+- Create a new account.
+
+## 2. User
+- Create and edit profile.
+- Apply for opportunities.
+- Save favorites.
+- Send and receive messages.
+- Create posts and interact with the community.
+- Receive notifications.
+- Manage subscriptions.
+
+## 3. Service Provider
+- Publish services.
+- Edit services.
+- Manage requests.
+- View analytics.
+- Communicate with users.
+
+## 4. Administrator
+- Manage all users.
+- Review and approve services.
+- Handle reports.
+- Manage advertisements.
+- Manage subscriptions.
+- Manage platform content.
+- View complete analytics.
+
+---
+
+# Core Modules
+
+- Authentication
+- Home
+- Services
+- Community
+- Messages
+- Notifications
+- Search
+- Favorites
+- Profile
+- Settings
+- Subscription
+- Admin Dashboard
