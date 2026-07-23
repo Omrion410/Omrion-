@@ -148,6 +148,5 @@ State Management should always remain:
 * Future Ready
 
 ---
-
 End of document.
 
