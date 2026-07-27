@@ -1,1 +1,11 @@
+{
+  "game_name": "Game Funding Project",
+  "version": "1.0.0",
+  "environment": "production",
+  "settings": {
+    "auto_save_interval_seconds": 30,
+    "max_offline_hours": 12,
+    "debug_mode": false
+  }
+}
 
